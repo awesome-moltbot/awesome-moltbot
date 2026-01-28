@@ -389,6 +389,6 @@
 
 **⚠️ Disclaimer**
 
-This repository is an independent, community-driven collection of resources. It is not affiliated with, endorsed by, or officially associated with the creators of Moltbot. All product names, logos, and brands are property of their respective owners.
+This repository is an independent, community-driven collection of resources. It is not affiliated with, endorsed by, or officially associated with the creators of Moltbot, or any of the projects and authors featured in this collection. All product names, logos, and brands are property of their respective owners.
 
 </div>
