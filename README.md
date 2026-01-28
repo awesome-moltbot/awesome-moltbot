@@ -17,6 +17,11 @@
 <a href="https://github.com/moltbot/moltbot"><img src="https://img.shields.io/github/stars/moltbot/moltbot?style=social" height="28" alt="Moltbot Stars" /></a>
 </p>
 
+<p align="center">
+  <b>Welcome!</b> We love community contributions. <br>
+  Submit a <b><a href="https://github.com/awesome-moltbot/awesome-moltbot/pulls">Pull Request</a></b>, open a <b><a href="https://github.com/awesome-moltbot/awesome-moltbot/discussions">Discussion</a></b>, or report an <b><a href="https://github.com/awesome-moltbot/awesome-moltbot/issues">Issue</a></b>.
+</p>
+
 <br>
 
 <!-- DESCRIPTION -->
