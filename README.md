@@ -159,6 +159,15 @@
   </blockquote>
 </details>
 
+<details>
+  <summary><b>ClawWatch</b> <img src="https://badgen.net/github/stars/0xdsqr/clawwatch" height="14"/> - <i>Agent Cost Monitoring</i></summary>
+  <blockquote>
+    Real-time cost tracking, budget alerts, and session monitoring for your agents. Self-hosted with Docker.
+    <br><br>
+    <a href="https://github.com/0xdsqr/clawwatch">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
 </details>
 
 <br>
